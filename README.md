@@ -1,4 +1,4 @@
-### These amazing projects were performed during training in Yandex. Printikum, profession "Data Science Specialist"
+### These amazing projects were performed during training in Yandex. Praktikum, profession "Data Science Specialist"
 
 
 | Project name | Description | Libraries |
